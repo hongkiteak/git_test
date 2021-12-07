@@ -1,2 +1,3 @@
-init
-master 에서 수정
+git에서 수정
+initmaster 에서 수정
+user에서 수정
